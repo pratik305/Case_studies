@@ -1,40 +1,34 @@
-# Diamond Manufacturing: Payroll Validation & ERP Data Restructuring
+# Data Analytics Portfolio
 
-## Overview
+Business Data Analyst focused on operational analytics, payroll validation, and making messy data usable for business decisions.
 
-Led comprehensive payroll validation and operational data standardization at a diamond manufacturing company, identifying a recurring five-figure monthly financial loss from outdated ERP logic.
+## Featured Projects
 
-## Key Impact
+### [Diamond Manufacturing: Payroll Validation & ERP Data Restructuring](./diamond-manufacturing-payroll-analysis/)
 
-- **Financial:** Identified ***50000 Rupees*** monthly loss from systematic payroll calculation error
-- **Operational:** Standardized fragmented production data across multiple departments
-- **System:** Coordinated with ERP vendor to add missing processes and enable critical reports
+Identified recurring $XX,XXX monthly financial loss by independently validating ERP payroll logic and restructuring fragmented operational data.
 
-## The Problem
+**Key skills:** Data cleaning, fuzzy matching, business logic validation, Python, SQL
 
-The company had expanded from natural to lab-grown diamonds, but ERP rate calculation logic hadn't been updated. Combined with severely messy operational data (inconsistent worker names, duplicate process entries, no unique IDs), payroll accuracy was impossible to verify.
-
-## Approach
-
-- Cleaned and standardized large operational datasets using fuzzy matching + manual validation
-- Mapped complete diamond production flow to validate data capture logic
-- Independently recalculated payroll using Python/SQL rather than trusting ERP outputs
-- Performed variance analysis to identify systematic vs. random errors
-
-## Key Finding
-
-ERP was using "Making CTS" (post-processing weight) for all diamonds, including lab-grown. Lab-grown rates should use "Issue CTS" (pre-processing weight). This systematic logic error caused recurring monthly financial loss that wasn't visible in standard reports.
-
-## Tools & Techniques
-
-**Languages:** Python, SQL  
-**Libraries:** pandas, RapidFuzz, FuzzyWuzzy, numpy, openlyxl 
-**Techniques:** Fuzzy string matching, data standardization, independent logic validation, variance analysis
-
-## Read More
-
-[📄 Full detailed case study →](./diamond-manufacturing-payroll-analysis/case-study.md)
+[View project →](./diamond-manufacturing-payroll-analysis/)
 
 ---
 
-**Skills demonstrated:** Data cleaning • Business logic validation • ERP analysis • Stakeholder coordination • Financial analysis
+## About Me
+
+I work with messy real-world data to solve business problems. My approach focuses on:
+- Understanding operations before analyzing data
+- Questioning system outputs rather than assuming they're correct
+- Connecting technical findings to business impact
+- Improving data quality at the source
+
+## Technical Skills
+
+**Languages:** Python, SQL  
+**Libraries:** pandas, numpy, RapidFuzz, FuzzyWuzzy  
+**Tools:** Jupyter, Excel, ERP systems  
+**Focus areas:** Data cleaning, operational analysis, payroll validation, business logic verification
+ 
+---
+
+_More case studies coming soon_
