@@ -33,7 +33,7 @@ ERP was using "Making CTS" (post-processing weight) for all diamonds, including 
 
 ## Read More
 
-[📄 Full detailed case study →](./case-study.md)
+[📄 Full detailed case study →](./diamond-manufacturing-payroll-analysis/case-study.md)
 
 ---
 
