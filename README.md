@@ -6,7 +6,7 @@ Business Data Analyst focused on operational analytics, payroll validation, and 
 
 ### [Diamond Manufacturing: Payroll Validation & ERP Data Restructuring](./diamond-manufacturing-payroll-analysis/)
 
-Identified recurring $XX,XXX monthly financial loss by independently validating ERP payroll logic and restructuring fragmented operational data.
+Identified recurring **500000 RUPEES** monthly financial loss by independently validating ERP payroll logic and restructuring fragmented operational data.
 
 **Key skills:** Data cleaning, fuzzy matching, business logic validation, Python, SQL
 
